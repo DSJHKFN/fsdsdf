@@ -1,0 +1,39 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: pink;
+}
+.header_div{
+    color:aqua;
+    background-color: beige;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: medium;
+
+}
+.header_div p{
+    color:rgba(255, 255, 255, 0.571);
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-weight: dark;
+    font-size: smaller;
+
+}
+.main_div button{
+    font-size: 2px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    background-color: azure;
+    color: rgb(37, 35, 35);
+}
+.copy-right_footer{
+    width: 100%;
+    line-height: 30px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    background-color: whitesmoke;
+    position: fixed;
+    text-shadow: 5px 5px 5px grey;
+    text-align:center;
+    color:grey;
+}
